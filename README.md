@@ -27,6 +27,6 @@ This project aims to predict earthquake damage in Nepal using machine learning m
 ## Acknowledgments
 - The dataset is sourced from (https://www.kaggle.com/code/ar89dsl/predicting-building-damage-from-earthquakes/input)
 ## Contributors
-Mahmoud Yaseen 
+**Mahmoud Yaseen** 
 
 Happy coding!
