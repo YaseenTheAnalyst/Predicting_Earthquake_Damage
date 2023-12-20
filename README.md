@@ -20,14 +20,9 @@ This project aims to predict earthquake damage in Nepal using machine learning m
 - Python 3.x
 - Jupyter Notebooks
 - Required Python packages listed in requirements.txt
-## Data
-- The dataset used in this project is located in the data/ directory. The main data file is csv_building_structure.csv.
 
 ## Model Comparison
 - The project includes implementations of Logistic Regression and Decision Tree models. The comparison of these models is detailed in the notebooks.
-
-## License
-- This project is licensed under the MIT License.
 
 ## Acknowledgments
 - The dataset is sourced from (https://www.kaggle.com/code/ar89dsl/predicting-building-damage-from-earthquakes/input)
