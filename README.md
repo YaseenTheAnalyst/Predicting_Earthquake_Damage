@@ -14,7 +14,7 @@ This project aims to predict earthquake damage in Nepal using machine learning m
 1. Clone the repository:
    ```bash
    git clone https://github.com/YaseenTheAnalyst/Predicting_Earthquake_Damage
-   cd earthquake-damage-prediction
+   cd Predicting_Earthquake_Damage
 
 ## Requirements
 - Python 3.x
