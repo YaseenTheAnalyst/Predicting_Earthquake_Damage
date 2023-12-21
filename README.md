@@ -19,7 +19,6 @@ This project aims to predict earthquake damage in Nepal using machine learning m
 ## Requirements
 - Python 3.x
 - Jupyter Notebooks
-- Required Python packages listed in requirements.txt
 
 ## Model Comparison
 - The project includes implementations of Logistic Regression and Decision Tree models. The comparison of these models is detailed in the notebooks.
